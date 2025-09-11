@@ -26,7 +26,7 @@
 - ( ) OrleansVoting
 - ( ) Shared
 - ( ) StandaloneDashboard
-- ( ) VolumeMount
+- (X) VolumeMount
 
 ## References
 - [install az function](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-csharp&tabs=linux%2Cbash%2Cazure-cli)
