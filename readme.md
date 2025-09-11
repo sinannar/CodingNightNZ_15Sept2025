@@ -19,7 +19,7 @@
 - ( ) ClientAppsIntegration
 - (X) ContainerBuild
 - ( ) CustomResources
-- ( ) DatabaseContainers
+- (X) DatabaseContainers
 - ( ) DatabaseMigrations
 - ( ) HealthChecksUI
 - ( ) Metrics
