@@ -17,7 +17,7 @@
 - (X) AspireWithNode
 - ( ) AspireWithPython
 - ( ) ClientAppsIntegration
-- ( ) ContainerBuild
+- (X) ContainerBuild
 - ( ) CustomResources
 - ( ) DatabaseContainers
 - ( ) DatabaseMigrations
