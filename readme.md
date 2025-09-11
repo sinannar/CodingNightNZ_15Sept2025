@@ -21,7 +21,7 @@
 - ( ) CustomResources
 - (X) DatabaseContainers
 - (X) DatabaseMigrations
-- ( ) HealthChecksUI
+- (X) HealthChecksUI
 - ( ) Metrics
 - ( ) OrleansVoting
 - ( ) Shared
