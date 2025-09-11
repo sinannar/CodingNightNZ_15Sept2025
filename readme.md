@@ -12,7 +12,7 @@
 
 ## Samples to Demo
 - (X) AspireShop
-- ( ) AspireWithAzureFunctions
+- (X) AspireWithAzureFunctions
 - (X) AspireWithJavaScript
 - (X) AspireWithNode
 - ( ) AspireWithPython
@@ -28,3 +28,7 @@
 - ( ) StandaloneDashboard
 - ( ) VolumeMount
 
+## References
+- [install az function](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-csharp&tabs=linux%2Cbash%2Cazure-cli)
+
+- [azure function arch linux - AUR](https://aur.archlinux.org/packages/azure-functions-core-tools-bin)
