@@ -20,7 +20,7 @@
 - (X) ContainerBuild
 - ( ) CustomResources
 - (X) DatabaseContainers
-- ( ) DatabaseMigrations
+- (X) DatabaseMigrations
 - ( ) HealthChecksUI
 - ( ) Metrics
 - ( ) OrleansVoting
